@@ -2,6 +2,10 @@
   font-family: 'Raleway', sans-serif;
 }
 
+table {
+  font-family: 'Raleway', sans-serif;
+  
+}
 p {
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
@@ -42,4 +46,3 @@ li a:hover {
   .active {
     background-color: #ca8a6c;
   }
-
