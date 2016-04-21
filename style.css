@@ -1,7 +1,14 @@
-   h1 {
+ h1 {
   font-family: 'Raleway', sans-serif;
 }
 
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
 #nav {
   list-style-type: none;
   margin: 0;
@@ -35,10 +42,4 @@ li a:hover {
   .active {
     background-color: #ca8a6c;
   }
-p {
-    font-family: 'Raleway', sans-serif;
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-  }
+
