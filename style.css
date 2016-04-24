@@ -138,9 +138,6 @@ p {
   text-decoration: none;
   padding: 20px 40px;
   /* variable width */
-}
-
-a {
   display: block;
   color: black;
   text-align: center;
