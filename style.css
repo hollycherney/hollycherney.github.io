@@ -67,11 +67,6 @@ table {
     background-color: none;
 }
 
-.soc li a:hover {
-  .active {
-    background-color: #fff;
-  }
-
 .soc-icon-last{
     margin:0 !important;
 }
