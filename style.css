@@ -68,7 +68,6 @@ table {
 }
 
 .soc li a:hover {
-  background-color: #fff;
   .active {
     background-color: #fff;
   }
