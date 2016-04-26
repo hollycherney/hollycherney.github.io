@@ -114,6 +114,10 @@ table {
     content:'r';
 }
 
+.res a {
+  background-color: #fff;
+}
+
 p {
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
@@ -154,6 +158,3 @@ li a:hover {
   .active {
     background-color: #ca8a6c;
   }
-
-.res a {
-  background-color: #fff;
