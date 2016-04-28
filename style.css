@@ -155,13 +155,11 @@ p {
   opacity: 1;
 }
 #slider a {
-  display: block;
-  text-align: center;
-  font-family: 'Raleway', sans-serif;
-  padding: 10px 20px;
-  text-decoration: none;
+  ext-decoration: none;
   background: #bfbfbf;
   border: 1px solid #bfbfbf;
+  padding: 4px 6px;
+  color: #222;
 }
 #slider a:hover {
   background: #ca8a6c;
