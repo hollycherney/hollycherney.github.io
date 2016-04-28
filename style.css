@@ -156,14 +156,12 @@ p {
 }
 #slider a {
   display: block;
-  color: black;
   text-align: center;
   font-family: 'Raleway', sans-serif;
   padding: 10px 20px;
   text-decoration: none;
   background: #bfbfbf;
   border: 1px solid #bfbfbf;
-  color: #222;
 }
 #slider a:hover {
   background: #ca8a6c;
