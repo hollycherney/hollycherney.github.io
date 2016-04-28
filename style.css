@@ -122,6 +122,13 @@ p {
   text-align: center;
 }
 
+#p .a {  color: black;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  padding: 10px 20px;
+  background: #fff
+}
+
 #images {
   width: 650px;
   height: 400px;
@@ -184,7 +191,7 @@ p {
   /* variable width */
 }
 
-a {
+li a {
   display: block;
   color: black;
   text-align: center;
